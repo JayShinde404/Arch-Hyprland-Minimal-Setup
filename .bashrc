@@ -60,8 +60,6 @@ alias gparted='sudo gparted & disown'
 alias timeshift-gui='sudo timeshift-gtk & disown'
 alias hypr='start-hyprland'
 alias update-grub='sudo grub-mkconfig -o /boot/grub.cfg'
-
-#SSH
 alias archwiki='w3m wiki.archlinu/home/jay/Downloads/rebornos_iso-2025.07.09-x86_64.isox.org'
 
 #Config
