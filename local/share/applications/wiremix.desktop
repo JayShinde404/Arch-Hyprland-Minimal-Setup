@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Name=Audio Manager (Playback and Recording)
+Exec=kitty --class wiremix -e wiremix
+Type=Application
+Categories=Audio;System;
+Terminal=false
+StartupWMClass=wiremix

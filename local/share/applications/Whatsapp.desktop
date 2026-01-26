@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Type=Application
+Name=Whatsapp-Web
+GenericName=Whatsapp  
+Icon=Whatsapp
+Terminal=false
+Comment=Web App for Whatsapp on brave
+Exec=zen-browser --new-window https://web.whatsapp.com  
+Categories=Network;Chat;
+StartupWMClass=Whatsapp

@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Name=Bluetooth Manager
+Exec=kitty --class bluetui -e bluetui
+Type=Application
+Categories=System;
+Terminal=false
+StartupWMClass=bluetui
