@@ -13,5 +13,7 @@ The components of my system include:
 - Wallpaper Daemon >> _swww-daemon_
 - Notification Daemon >> _Mako_
 - Editor >> _Neovim/Lazyvim(TUI)_ & _Visual Studio Code(GUI)_
+- Media Players >> _imv(Images)_ & _mpv(Videos_
+- Browsers >> _zen-browser(GUI)_ & _w3m(TUI)_
 
 
