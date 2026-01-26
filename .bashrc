@@ -63,8 +63,6 @@ alias update-grub='sudo grub-mkconfig -o /boot/grub.cfg'
 
 #SSH
 alias archwiki='w3m wiki.archlinu/home/jay/Downloads/rebornos_iso-2025.07.09-x86_64.isox.org'
-alias ssh-connect-tab='ssh -tt -p 8022 u0_a158@192.168.1.83 bash'
-alias sshfs-connect-tab='sshfs -p 8022 u0_158@192.168.1.83:/storage/emulated/0/tablet-nas ~/tablet-nas'
 
 #Config
 alias ebash='nvim ~/.bashrc'
