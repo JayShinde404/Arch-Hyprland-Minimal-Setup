@@ -8,6 +8,10 @@ If you do like a setup script, or have any suggestions, do message me on     Dis
 The components of my system include:
 - Shell >> _Bash_
 - App Launcher >> _Hyprlauncher_
-- 
+- File Manager >> _Thunar(GUI)_ & _Yazi(TUI)_
+- Terminal >> _Kitty_
+- Wallpaper Daemon >> _swww-daemon_
+- Notification Daemon >> _Mako_
+- Editor >> _Neovim/Lazyvim(TUI)_ & _Visual Studio Code(GUI)_
 
 
