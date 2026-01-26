@@ -1,2 +1,2 @@
-# Omarchy-Overrides
-Scripts/Changes to the base Omarchy setup stored here
+# Arch Linux + Hyprland Minimal Setup
+Contains all the dotfiles, wallpapers and configuration of my Arch Linux Setup
