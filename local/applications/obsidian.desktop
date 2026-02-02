@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Obsidian
+Comment=Knowledge base and markdown note-taking
+Exec=obsidian %U
+Icon=obsidian
+Type=Application
+Terminal=false
+Categories=Office;Utility;TextEditor;
+MimeType=text/markdown;
+StartupNotify=true

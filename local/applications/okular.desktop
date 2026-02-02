@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Okular
+Comment=Document Viewer
+Exec=okular %U
+Icon=okular
+Terminal=false
+Type=Application
+Categories=Office;Viewer;Qt;
+MimeType=application/pdf;application/epub+zip;
+StartupNotify=true

@@ -1,0 +1,7 @@
+[Desktop Entry]
+
+Name=Arch-Repo
+Comment=Official Arch Package Repository
+Exec=zen-browser --new-window https://archlinux.org/packages/
+Categories=Network;
+StartupWMClass=arc

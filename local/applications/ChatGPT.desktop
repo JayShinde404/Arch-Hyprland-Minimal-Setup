@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Name=ChatGPT
+Comment=Web app for ChatGPT through Brave
+Exec=zen-browser --new-window https://chatgpt.com
+Icon=ChatGPT
+Type=Application
+Categories=Chat;
+Terminal=false

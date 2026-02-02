@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Name=Network Manager
+Exec=kitty --class impala -e impala
+Type=Application
+Categories=System;
+Terminal=false
+StartupWMClass=impala
