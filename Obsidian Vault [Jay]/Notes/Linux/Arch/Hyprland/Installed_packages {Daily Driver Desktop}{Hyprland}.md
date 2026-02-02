@@ -44,7 +44,7 @@
 >	qt6ct [Qt6 Settings]
 >	wget [Alternate package manager]  
 >	imv [Image Viewer]
->	nwg-looks [GTK Icons Settings]
+>	nwg-look [GTK Icons Settings]
 >	gnome-tweaks [GTK Font/Text Settings]
 >	mission-center [GUI System Monitor with GPU Monitoring]
 >	gnome-calculator [Simple Calculator]
