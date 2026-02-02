@@ -1,0 +1,1 @@
+Linux Mint created in case Arch crashes.

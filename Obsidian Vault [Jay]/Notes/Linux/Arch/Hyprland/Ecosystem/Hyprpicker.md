@@ -1,0 +1,1 @@
+Tags: [[Hyprland Ecosystem]]
