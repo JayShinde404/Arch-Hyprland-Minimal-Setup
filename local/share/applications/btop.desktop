@@ -1,9 +1,0 @@
-[Desktop Entry]
-
-Name=Btop
-Exec=kitty --class btop-float -e btop 
-Icon=btop
-Type=Application
-Categories=System;Monitor;
-Terminal=false
-StartupWMClass=btop

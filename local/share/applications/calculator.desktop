@@ -1,8 +1,0 @@
-[Desktop Entry]
-
-Name=Calculator
-Exec=gnome-calculator
-Type=Application
-Categories=Utility;
-Terminal=false
-StartupWMClass=calculator

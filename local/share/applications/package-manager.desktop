@@ -1,8 +1,0 @@
-[Desktop Entry]
-
-Name=Package Manager
-Exec=kitty --class pacseek -e pacseek
-Type=Application
-Categories=System;
-Terminal=false
-StartupWMClass=pacseek

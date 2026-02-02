@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=AUR
-GenericName=Arch Repos
-Comment=Web app for the AUR Repository
-Exec=zen-browser --new-window https://aur.archlinux.org/packages?
-Categories=Network;
-StartupWMClass=aur

@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Google Calendar
-Type=Application
-Comment=Web App for Google Calendar
-Exec=zen-brwoser --new-window https://calendar.google.com/
-Categories=Network;

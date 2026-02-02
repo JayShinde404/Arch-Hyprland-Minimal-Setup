@@ -1,7 +1,0 @@
-[Desktop Entry]
-
-Name= Youtube Web
-Comment=Youtube Web App for Brave
-Exec=zen-browser --new-window https://youtube.com/
-Terminal=false
-Type=Application
